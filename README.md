@@ -7,7 +7,7 @@ There are many existing website which compares the product on two different webs
 2.	XAMPP is an open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB (MySQL) database, and interpreters for scripts written in the PHP and Perl programming languages. Since most actual web server deployments use the same components as XAMPP, it makes transitioning from a local test server to a live server possible.
 
 
-## Technology and languageS
+## Technology and languages
 1. API
 2. JSON
 3. PHP
